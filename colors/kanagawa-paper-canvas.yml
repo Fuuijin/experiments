@@ -1,0 +1,37 @@
+ref:
+  nord0: "#2e3440" # background
+  nord1: "#3b4252" # black
+  nord2: "#434c5e" # selection
+  nord3: "#4c566a" # brightblack
+  nord4: "#d8dee9" # foreground
+  nord5: "#e5e9f0" # white
+  nord6: "#eceff4" # brightwhite
+  nord7: "#8fbcbb" # brightcyan
+  nord8: "#88c0d0" # cyan
+  nord9: "#81a1c1" # blue
+  nord10: "#5e81ac" # darkblue
+  nord11: "#bf616a" # red
+  nord12: "#d08770" # orange
+  nord13: "#ebcb8b" # yellow
+  nord14: "#a3be8c" # green
+  nord15: "#b48ead" # magenta
+
+  dim-foreground: "#a5abb6"
+
+colors:
+  black: "#f8f8f4" #background
+  color1: "#9AAE9D"
+  color2: "#B9B296"
+  color3: "#C3B99B"
+  color4: "#E0BE89"
+  color5: "#C4BDA2"
+  color6: "#D1CCAE"
+  color7: "#1C2136" #black
+  color8: "#7e8070"
+  color9: "#9AAE9D"
+  color10: "#B9B296"
+  color11: "#C3B99B"
+  color12: "#E0BE89"
+  color13: "#C4BDA2"
+  color14: "#D1CCAE"
+  color15: "#1C2136" #black
