@@ -1,6 +1,6 @@
 # Here be dragons
 
 - Mattias Ross
-- [fuuijin@gmail.com]
+- [email](fuuijin@gmail.com)
 
 ---
